@@ -12,6 +12,9 @@ import MLPage from './pages/MLPage';
 import AnalyticsPage from './pages/AnalyticsPage';
 import AuditAssistantPage from './pages/AuditAssistantPage';
 import BatchAuditPage from './pages/BatchAuditPage';
+import VoiceToReportPage from './pages/VoiceToReportPage';
+import BestPracticePage from './pages/BestPracticePage';
+import WhatChangedPage from './pages/WhatChangedPage';
 import NotFoundPage from './pages/NotFoundPage';
 
 function Layout({ children }) {
@@ -43,6 +46,9 @@ export default function App() {
           <Route path="/analytics" element={<Layout><AnalyticsPage /></Layout>} />
           <Route path="/audit" element={<Layout><AuditAssistantPage /></Layout>} />
           <Route path="/batch-audit" element={<Layout><BatchAuditPage /></Layout>} />
+          <Route path="/voice-to-report" element={<Layout><VoiceToReportPage /></Layout>} />
+          <Route path="/best-practices" element={<Layout><BestPracticePage /></Layout>} />
+          <Route path="/what-changed" element={<Layout><WhatChangedPage /></Layout>} />
         </Route>
 
         {/* 404 Catch-all */}
