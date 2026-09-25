@@ -1,0 +1,35 @@
+{
+    "random_forest": {
+        "accuracy": 0.99,
+        "f1": 0.987,
+        "auc": 1.0
+    },
+    "xgboost": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    },
+    "lightgbm": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    },
+    "feature_importance": {
+        "max_single_payment_pct": 0.809,
+        "financial_progress_pct": 0.182,
+        "physical_progress_pct": 0.01,
+        "sanctioned_amount": -0.0,
+        "expenditure": 0.0,
+        "num_payments": 0.0,
+        "days_since_sanction": 0.0
+    },
+    "risk_correlation": {
+        "sanctioned_amount": 0.006,
+        "expenditure": 0.306,
+        "physical_progress_pct": -0.805,
+        "financial_progress_pct": 0.655,
+        "num_payments": -0.394,
+        "max_single_payment_pct": 0.833,
+        "days_since_sanction": -0.436
+    }
+}

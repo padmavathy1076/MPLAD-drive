@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.pkl
+*.joblib
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Data (keep schema, skip generated)
+backend/data/mplads_dataset.csv
+
+# OS
+.DS_Store
+*.log
