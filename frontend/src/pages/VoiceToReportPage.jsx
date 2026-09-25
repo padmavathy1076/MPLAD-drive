@@ -212,7 +212,7 @@ AUTHORIZED BY: MoSPI Sentinel Automated Vigilance Node #4
         <div className="space-y-1.5">
           <div className="flex items-center gap-2.5 flex-wrap">
             <span className="bg-indigo-500/30 text-indigo-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-indigo-400">
-              SIH 2026 Innovation #1
+              MoSPI Vigilance Module
             </span>
             <span className="bg-emerald-500/20 text-emerald-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-emerald-400">
               Live Speech-to-Docket
@@ -290,7 +290,7 @@ AUTHORIZED BY: MoSPI Sentinel Automated Vigilance Node #4
             <div className="flex items-center justify-between">
               <h3 className="text-xs font-bold uppercase tracking-wider text-slate-700 flex items-center gap-1.5">
                 <Volume2 size={15} className="text-indigo-600" />
-                SIH Demo Citizen Audio Samples
+                Recorded Citizen Audio Grievances
               </h3>
               <span className="text-[10px] text-slate-400">One-click simulation</span>
             </div>

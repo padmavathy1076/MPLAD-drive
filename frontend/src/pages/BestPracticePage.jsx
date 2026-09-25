@@ -184,7 +184,7 @@ Adopt this contracting model for ${project.sector} works under revised MoSPI 202
         <div className="space-y-1.5">
           <div className="flex items-center gap-2.5 flex-wrap">
             <span className="bg-emerald-500/30 text-emerald-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-emerald-400">
-              SIH 2026 Innovation #2
+              MoSPI Performance Benchmark
             </span>
             <span className="bg-teal-500/20 text-teal-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-teal-400">
               Positive Governance Engine
@@ -231,7 +231,7 @@ Adopt this contracting model for ${project.sector} works under revised MoSPI 202
         <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 border-b border-slate-100 pb-3">
           <div>
             <span className="text-[10px] font-bold text-indigo-600 uppercase tracking-wider block">
-              Slide 2 Ground Truth Comparison
+              National Performance Analysis
             </span>
             <h3 className="text-sm font-bold text-slate-900">
               National Distribution Picture: Better Performers vs Laggards

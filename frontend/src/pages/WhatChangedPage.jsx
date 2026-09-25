@@ -124,7 +124,7 @@ export default function WhatChangedPage() {
         <div className="space-y-1.5">
           <div className="flex items-center gap-2.5 flex-wrap">
             <span className="bg-amber-500/30 text-amber-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-amber-400">
-              SIH 2026 Innovation #3
+              MoSPI Temporal Delta Module
             </span>
             <span className="bg-red-500/20 text-red-300 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-red-400">
               Temporal Delta Radar
@@ -144,7 +144,7 @@ export default function WhatChangedPage() {
         <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 border-b border-slate-100 pb-3">
           <div>
             <span className="text-[10px] font-bold text-red-600 uppercase tracking-widest block">
-              Slide 2 Direct Architecture Replica
+              Multi-Project Forensic Cost Analysis
             </span>
             <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
               <span>PROJECT ANALYSIS & COST OUTLIER DETECTION</span>
